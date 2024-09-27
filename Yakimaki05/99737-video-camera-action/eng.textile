@@ -1,4 +1,4 @@
-Video, Camera, Action.
+﻿Video, Camera, Action
 
 Author: Yakimaki05
 
