@@ -1,4 +1,4 @@
-Wires
+﻿Wires
 
 Author: Yakimaki05
 
@@ -40,7 +40,7 @@ Vox laughs that Alastor is still trying to free himself.
 
 - Could you stop your maniacal laughter already?
 
-Doesn't suit you, and it's making my ears bleed because it's so loud...
+@@doesn't suit you, and it's making my ears bleed because it's so loud...
 
 Vox quickly blushes at the comment, it's been so long since he spoke to Alastor face to face that normal comments leave him bewildered...
 
